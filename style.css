@@ -1,0 +1,133 @@
+#first {
+  background-color: #2e2e2e;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+h1 {
+	font-family: 'PT Serif', 'Georgia', serif;
+	color: white;
+	font-size: 5em;
+	font-weight: 700;
+}
+
+#sub {
+	font-weight: 100;
+}
+
+.line {
+	border-top: 1px solid #59C5AD;
+	width: 200px;
+	height: 0px;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+
+#second {
+	background-color: #F0EAD6;
+	padding-top: 100px;
+}
+
+h2 {
+	font-family: 'PT Sans', sans-serif;
+	color: #2e2e2e;
+	font-size: 4em;
+	font-weight: 100;
+}
+
+.qantas {
+	font-weight: 800;
+}
+
+#third {
+	background-color: #F0EAD6;
+	padding-top: 80px;
+}
+
+h3 {
+	font-family: 'PT Sans', sans-serif;
+	color: #2e2e2e;
+	font-size: 4em;
+	font-weight: 100;
+}
+
+.client {
+	font-weight: 800;
+}
+
+#fourth {
+	background-color: #F0EAD6;
+	padding-top: 80px;
+}
+
+h4 {
+	font-family: 'PT Sans', sans-serif;
+	color: #2e2e2e;
+	font-size: 4em;
+	font-weight: 100;
+}
+
+a {
+	color: #CD0021;
+	text-decoration: underline;
+	font-weight: 800;
+}
+
+#fifth {
+	background-color: #F0EAD6;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+#final {
+	background-color: #2e2e2e;
+	padding-top: 80px;
+	padding-bottom: 120px;
+}
+
+h5 {
+	font-family: 'PT Serif', 'Georgia', serif;
+	color: white;
+	font-style: italic;
+	font-size: 4em;
+	font-weight: 100;
+}
+
+#final_title {
+	line-height:2em;
+	}
+	
+.nored {
+	color: white;
+	text-decoration: underline;
+	font-weight: 100;
+}
+
+h6 {
+	font-family: 'PT Sans', sans-serif;
+	color: white;
+	font-size: 2.4em;
+	font-weight: 900;
+	text-align: center;
+	vertical-align: top;
+}
+
+#email {
+	vertical-align: top;
+	}
+	
+#in	{
+	vertical-align: top;
+	padding-top: 10px;
+}
+
+#navi {
+	padding-top:0px;
+	padding-bottom:10px;
+	background-color: #2e2e2e;
+}
+
+#tweet {
+	height: 60px;
+	width: 60px;
+}
