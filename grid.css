@@ -10,7 +10,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,addre
 html {
 height: 100%;
 }
-  .row, body, .container {
+	.row, body, .container {
 	width: 100%;
 	min-width: 0;
 	margin-left: 0px;
@@ -58,20 +58,18 @@ img {
 
 
 	h1, h2, h3, h4, h5 {
-	font-size: 6em;
+	font-size: 3em;
 	}
 	
 	a {
 	color: #CD0021;
 	text-decoration: underline;
 	font-weight: 800;
-	font-size: 1em;
+	font-size: 6em;
 }
-	
+
 	.nav {
-	height:100px;
-	width: 100%;
-	position: fixed;
+	display: none;
 	}
 	
 	.content {
