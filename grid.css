@@ -68,6 +68,12 @@ img {
 	font-size: 1em;
 }
 	
+	.nav {
+	height:100px;
+	width: 100%;
+	position: fixed;
+	}
+	
 	.content {
 	width: 100%;
 	margin: 0 auto;
