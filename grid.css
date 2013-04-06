@@ -58,14 +58,13 @@ img {
 
 
 	h1, h2, h3, h4, h5 {
-	font-size: 3em;
+	font-size: 6em;
 	}
 	
 	a {
 	color: #CD0021;
 	text-decoration: underline;
 	font-weight: 800;
-	font-size: 6em;
 }
 
 	.nav {
