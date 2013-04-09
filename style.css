@@ -68,15 +68,19 @@ h4 {
 }
 
 a {
-	color: #CD0021;
 	text-decoration: underline;
 	font-weight: 800;
+}
+
+a:hover {
+	text-decoration: none;
 }
 
 #fifth {
 	background-color: #F0EAD6;
 	padding-top: 80px;
 	padding-bottom: 80px;
+	display: none;
 }
 
 #final {
@@ -92,10 +96,6 @@ h5 {
 	font-size: 4em;
 	font-weight: 100;
 }
-
-#final_title {
-	line-height:2em;
-	}
 	
 .nored {
 	color: white;
@@ -118,7 +118,7 @@ h6 {
 	
 #in	{
 	vertical-align: top;
-	padding-top: 10px;
+	margin-top: 15px;
 }
 
 #navi {
